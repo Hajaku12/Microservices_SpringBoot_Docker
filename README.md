@@ -22,7 +22,7 @@ This project utilizes a microservices architecture with Spring Boot, Docker, and
 
 1. Clone the repository and navigate into the project directory:
     ```sh
-    git clone 
+    git clone xhttps://github.com/Hajaku12/Microservices_SpringBoot_Docker.git
 
 2. Build the project:
     ```sh
@@ -31,15 +31,17 @@ This project utilizes a microservices architecture with Spring Boot, Docker, and
 
 3. Run the application:
     ```sh
-    java -jar target/Arep_4-1.0-SNAPSHOT.jar
+    java -jar target/Microservices_SpringBoot_Docker-1.0-SNAPSHOT.jar
     ```
 
 4. Run the Docker Compose file:
     ```sh
     docker-compose up
     ```
-  [Video1.mov](images%2FVideo1.mov) 
-
+<video width="600" controls>
+  <source src="images/Video1.mov" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ### Usage
 
