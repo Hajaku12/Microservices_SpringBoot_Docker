@@ -43,6 +43,7 @@ This project utilizes a microservices architecture with Spring Boot, Docker, and
   Your browser does not support the video tag.
 </video>
 
+![img_2.png](images%2Fimg_2.png)
 ### Usage
 
 - **Logging Service**: Enter a message in the text field and press "Send". The message will be stored in MongoDB, and you will see the last 10 messages.
