@@ -22,7 +22,7 @@ This project utilizes a microservices architecture with Spring Boot, Docker, and
 
 1. Clone the repository and navigate into the project directory:
     ```sh
-    git clone 
+    git clone xhttps://github.com/Hajaku12/Microservices_SpringBoot_Docker.git
 
 2. Build the project:
     ```sh
@@ -31,7 +31,7 @@ This project utilizes a microservices architecture with Spring Boot, Docker, and
 
 3. Run the application:
     ```sh
-    java -jar target/Arep_4-1.0-SNAPSHOT.jar
+    java -jar target/Microservices_SpringBoot_Docker-1.0-SNAPSHOT.jar
     ```
 
 4. Run the Docker Compose file:
